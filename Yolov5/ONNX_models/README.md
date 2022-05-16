@@ -1,1 +1,1 @@
-Download the converted ONNX models to this directory.
+Download the converted ONNX models to this directory. Use [this colab Notebook](https://colab.research.google.com/github/spmallick/learnopencv/blob/master/Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python/Convert_PyTorch_models.ipynb) to convert PyTorch models to ONNX.
